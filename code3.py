@@ -1,4 +1,4 @@
 def fonction (a,b):
-   c=a+b
- return c
- print(fonction(3,4))
+    c=a+b
+return c
+print(fonction(3,4)) #RETIRER les espaces
