@@ -1,5 +1,5 @@
-integer_number = 123
-float_number = 1.23
-new_number = integer_number + float_number
-print("Value:",new_number)
-print("Data Type:",type(new_number))
+nombre = input("nombre")
+entier = int(float(nombre))
+flottant= float(nombre)
+print(f"Nombre en entier : {entier}")
+print(f"Nombre en flottant : {flottant}")
